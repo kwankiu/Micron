@@ -1,7 +1,6 @@
-## Micron R1
+## Micron M++
 ![Rendering of a Micron build](https://github.com/user-attachments/assets/10e4061b-a2dd-4d93-bba7-cf4b91859f6a)
 
-# [Printed Part Configurator](https://micron.wizards-enclave.net/) 
 <p align="center">
   <a aria-label="Stars" href="https://github.com/PrintersForAnts/Micron/stargazers">
     <img src="https://img.shields.io/github/stars/PrintersForAnts/Micron?style=for-the-badge&logo=github&logoColor=%2344d62c&labelColor=%2363666a&color=%2344d62c""></a> &nbsp;
@@ -14,35 +13,20 @@
   <a aria-label="Discord" href="">
 <img alt="Discord" src="https://img.shields.io/discord/825469421346226226?style=for-the-badge&logo=discord&logoColor=%2344d62c&label=Discord&labelColor=%2363666a&color=%2344d62c&link=https%3A%2F%2Fdiscord.gg%2Fdoomcube">
 </p>
-    
-[Discord](https://discord.gg/doomcube)
 
-[The official Micron BOM is here.](https://docs.google.com/spreadsheets/d/1caKSc-EukVpRgN67_by_hdzVPlExSRQ66j3OXlEmcCU)
+[PFA's Discord](https://discord.gg/doomcube)
 
-If you want to purchase full kits there are 3 available (Kits are slowly updating to R1 hardware just make sure to double check the included hardware in your kit and if you have any questions reach out in the discord) 
+[My Micron BOM is here.](https://docs.google.com/spreadsheets/d/1mTU4rc2pGbNT7JGGZr5BcKCps8HXw2-bZYBfcn8UcF8)
 
-## LDO Motors Kit 
-### US Vendors
-[Fabreeko](https://www.fabreeko.com/products/ldo-micron-3d-printer-kit-180mm-3d-printer-kit-with-honeybadger-upgrades)
+### M++ is my own fork of Micron R1 with mods, config and additional STLs
 
-[KB3D](https://kb-3d.com/store/shop-full-build-kits/6567-ldo-micron-r1-3d-printer-build-kit-by-hartk-6975415159954.html)
+## Changes
+- SuperSlicer & OrcaSlicer Profile
+- Printer config
+- ADXL345 Probe (WIP)
+- 230x230 build (WIP)
 
-[West3d](https://west3d.com/products/ldo-micron-3d-printer-kit-micron-plus-180?_pos=1&_sid=03fbc1c81&_ss=r)
-
-### Non US Vendors
-
-[onetwo3d](https://www.onetwo3d.co.uk/product/ldo-micron-r1-diy-kit/?srsltid=AfmBOoraRNvGTTXXeaEX4yjF97ePEQ5GCPq-xmhn3iUpy0nTGUWonMrJ)
-
-[Zen3d](https://shop.zen3d.eu/ldo-micronplus-r1-kit-black)
-
-## Formbot 3d Kit 
-<a href="https://www.formbot3d.com/products/voron-micron-r1-180mm-high-quality-corexy-3d-printer-kit-latest-version?DIST=Rk9OHl4%3D" rel="nofollow">Formbot Micron+ (180x180) Kit (Affiliate Link)</a>
-
-<a href="https://s.click.aliexpress.com/e/_DBn6Ptd" rel="sponsored">Funssor Micron (120x120) Kit (Affiliate Link)</a>
-
-<a href="https://s.click.aliexpress.com/e/_DDDUFkF" rel="nofollow">Formbot Micron+ (180x180) Kit (Aliexpress Affiliate Link)</a>
-
-## [R1 Change Log](https://github.com/PrintersForAnts/Micron/blob/main/R1_changeLog.md)
+## Size
 
 <details> 
    <summary>
@@ -85,6 +69,27 @@ Part  | Qty | Length
 -----|-----|-----|
 MGN7H | 6 | 220mm
 MGN9C OR MGN9H | 1 | 220mm 
+</details>
+
+<details>
+    <summary>
+    230x230 build
+    </summary>
+    
+## Frame Extrusions
+Misumi Part #  |Qty | Notes
+ ----|----|----|
+HFS3-1515-400 |4 | Blind holes need to be drilled
+HFS3-1515-330 |10| Ends need to be tapped (M3)
+HFS3-1515-315 |2 |
+HFS3-1515-300 |1 |
+HFS3-1515-230 |1 |
+
+## Linear Rails
+Part  | Qty | Length
+-----|-----|-----|
+MGN7H | 6 | 270mm
+MGN9C OR MGN9H | 1 | 270mm 
 </details>
 
 ## No Drop Nuts

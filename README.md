@@ -15,11 +15,27 @@
 <img alt="Discord" src="https://img.shields.io/discord/825469421346226226?style=for-the-badge&logo=discord&logoColor=%2344d62c&label=Discord&labelColor=%2363666a&color=%2344d62c&link=https%3A%2F%2Fdiscord.gg%2Fdoomcube">
 </p>
     
+[Discord](https://discord.gg/doomcube)
 
 [The official Micron BOM is here.](https://docs.google.com/spreadsheets/d/1caKSc-EukVpRgN67_by_hdzVPlExSRQ66j3OXlEmcCU)
 
 If you want to purchase full kits there are 3 available (Kits are slowly updating to R1 hardware just make sure to double check the included hardware in your kit and if you have any questions reach out in the discord) 
 
+## LDO Motors Kit 
+### US Vendors
+[Fabreeko](https://www.fabreeko.com/products/ldo-micron-3d-printer-kit-180mm-3d-printer-kit-with-honeybadger-upgrades)
+
+[KB3D](https://kb-3d.com/store/shop-full-build-kits/6567-ldo-micron-r1-3d-printer-build-kit-by-hartk-6975415159954.html)
+
+[West3d](https://west3d.com/products/ldo-micron-3d-printer-kit-micron-plus-180?_pos=1&_sid=03fbc1c81&_ss=r)
+
+### Non US Vendors
+
+[onetwo3d](https://www.onetwo3d.co.uk/product/ldo-micron-r1-diy-kit/?srsltid=AfmBOoraRNvGTTXXeaEX4yjF97ePEQ5GCPq-xmhn3iUpy0nTGUWonMrJ)
+
+[Zen3d](https://shop.zen3d.eu/ldo-micronplus-r1-kit-black)
+
+## Formbot 3d Kit 
 <a href="https://www.formbot3d.com/products/voron-micron-r1-180mm-high-quality-corexy-3d-printer-kit-latest-version?DIST=Rk9OHl4%3D" rel="nofollow">Formbot Micron+ (180x180) Kit (Affiliate Link)</a>
 
 <a href="https://s.click.aliexpress.com/e/_DBn6Ptd" rel="sponsored">Funssor Micron (120x120) Kit (Affiliate Link)</a>
@@ -72,7 +88,7 @@ MGN9C OR MGN9H | 1 | 220mm
 </details>
 
 ## No Drop Nuts
-There are 2 versions of this mod, 1 from [Zruncho](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/zruncho/V0_No_Drop_Nuts) and the other from a user named [Zen3D](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Zen3D/V0_1515_T-nut/). Both of them have their uses. I prefer to use the Zen3D kind just for the fact that the screw can go all the way through the printed part. Zrunchos do have a much nicer fitment into the extrusions but they also dont allow the screw to go all the way through.
+There are 2 versions of this mod, 1 from [Zruncho](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/zruncho/V0_No_Drop_Nuts) and the other from a user named [Zen3D](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Zen3D/V0_1515_T-nut/). Both of them have their uses. I prefer to use the Zen3D kind just for the fact that the screw can go all the way through the printed part. Zrunchos do have a much nicer fitment into the extrusions but they also dont allow the screw to go all the way through. **NOTE:** the Zruncho nuts will not fit anywhere that has a tab to index to the extrusion - this includes the A/B drives, all idlers, and skirts. If you want to print only one type of nut, use the Zen3d nuts.
 
 ## Thank you
 Thanks to the following people on Discord who have helped make this printer what it is today. 
